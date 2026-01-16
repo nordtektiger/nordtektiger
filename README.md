@@ -8,7 +8,7 @@ Your average lost teenager. I love researching and building cool software and ha
 Exploring the alternatives to browser-based apps and delving deeper into system-level programming. I'm investigating different compiler designs and experimenting with Flutter to provide snappy, clean, and lightweight user experiences. Here are a couple of my way-too-many concurrent projects, excluding paid work:
 - **Harmoni** - A lightweight HiFi music player that supports lossless playback of FLAC, WAV, and more.
 - **Sekure** - A cryptographic library in Rust that aims to simplify writing safe & encrypted files.
-- **Quickbuild** - A simple and intuitive build system for C and C++
+- **Qvickbuild** - A simple and intuitive build system for C and C++
 
 ## Get in touch
 Anyone is welcome to contribute to my projects! Issue reports and pull requests are welcome, as long as they fit the codebase and purpose of the project.
